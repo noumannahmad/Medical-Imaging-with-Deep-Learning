@@ -1,4 +1,5 @@
-# Chest X-Ray Medical Diagnosis with Deep Learning using Imbalanced Dataset2 Load the Datasets
+# Chest X-Ray Medical Diagnosis with Deep Learning using Imbalanced Dataset
+
 We will be using the ChestX-ray8 dataset which contains 108,948 frontal-view X-ray images of 32,717 unique patients.
 
 Each image in the data set contains multiple text-mined labels identifying 14 different pathological conditions.
